@@ -1,0 +1,7 @@
+jupyterlab
+matplotlib
+seaborn
+pandas
+
+# wird separat bereitgestellt (z.B. Austauschlaufwerk auf dem Server)
+# pip install Kolonne-Python-Modules
