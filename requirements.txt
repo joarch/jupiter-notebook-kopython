@@ -2,6 +2,7 @@ jupyterlab
 matplotlib
 seaborn
 pandas
+sqlalchemy
 
 # wird separat bereitgestellt (z.B. Austauschlaufwerk auf dem Server)
 # pip install Kolonne-Python-Modules
