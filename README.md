@@ -17,7 +17,7 @@ echo SET database_url=%DATABASE_URL%>> .config/env.bat
 echo SET venv=%VENV_PATH%>> .config/env.bat
 ````
 
-Python VENV erstellen - cmd:
+Python VENV erstellen (python.exe ist im PATH oder kompletten Pfad zur exe angeben) - cmd:
 ````
 python.exe -m venv %VENV_PATH%
 ````
