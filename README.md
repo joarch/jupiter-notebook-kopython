@@ -23,8 +23,8 @@ pip install -r requirements.txt
 Konfiguration einrichten - cmd:
 ````
 md .config
-echo SET database_url=DATABASE_URL>> .config/env.bat
-echo SET venv=VENV_NAME>> .config/env.bat
+echo SET database_url=%DATABASE_URL%>> .config/env.bat
+echo SET venv=%VENV_NAME%>> .config/env.bat
 ````
 
 Starten:
